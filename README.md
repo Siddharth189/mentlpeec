@@ -1,12 +1,11 @@
-# React Chat-Bot using simple-react-chatbot
+# React web app for mental health
 ---
 
-[Live Demo](https://akash52.github.io/react-chatbot)
+[Live Demo](https://siddharth189.github.io/mentlpeec)
 
 ##  About <a name = "about"></a>
 
-Project Purpose was people can efficiently solve his/her queries using chatbot
-
+Project purpose is to help people who are suffering from mental problems
 ### Prerequisites
 
 - [NodeJS](https://nodejs.org/en/)
@@ -15,8 +14,8 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 
 ### Installing your local machine
 
- - git clone https://github.com/Akash52/react-chatbot
- - cd react-chatbot
+ - git clone https://github.com/Siddharth189/mentlpeec
+ - cd mentlpeec
  - npm install (these command install relevant dependencies)
  - npm start 
   The demo will be live at `http://localhost:3000`
@@ -33,19 +32,3 @@ Project Purpose was people can efficiently solve his/her queries using chatbot
 
 - [ReactJS](https://reactjs.org/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
-
-## Sample
-
-<p align="center">
-<img src="https://github.com/Akash52/react-chatbot/blob/master/public/images/ChatBot.gif?raw=true" width="600 height="600"/>
-</p>
-  
-                                                                                                                                                                                
-## Feel Free to use your upcoming projects ! 
-
-### 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- [React Simple Chatbot](https://github.com/LucasBassetti/react-simple-chatbot) 
-
-
-
-
